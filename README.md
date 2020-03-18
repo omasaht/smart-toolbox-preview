@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Smart Toolbox Application
 
-You can use the [editor on GitHub](https://github.com/omasaht/smart-toolbox-preview/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This was my first major project done on GUI development. This application ran on an embedded device and was targeted to Linux platform. The most challenging part to me in this project was to build a real time application that is able to process Computer Vision algorithm, GUI rendering, and Video recording at 30 fps. I used Kivy which is a cross-platform and open-source framework for Graphics User Interface and User Design Application. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The following attached video highlights some of the key features that I had to integrate in this application.
 
-### Markdown
+### Video
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
