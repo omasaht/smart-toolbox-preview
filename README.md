@@ -8,30 +8,7 @@ The following attached video highlights some of the key features that I had to i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YV1nnM69nIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Disclaimer
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omasaht/smart-toolbox-preview/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The demo application shown above only presents the initial phase of the toolbox project on which I worked on at Insight Corporation. It is in no way a final production ready application version and does not represent the company's product itself. The purpose of this page is to highlight and share my development work.
